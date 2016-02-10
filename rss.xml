@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Something Designed]]></title>
+        <description><![CDATA[Something Designed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 01:33:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Something Designed offers custom designed wedding stationery and graphic design. Choosing custom designs will provide you with the best quality and service, as we can help you through each step in the process. You will receive expertise and assistance you won't find from big companies and template sites. Everything is specified to you so we can fit any needs.</p>]]></description>
+            <link>undefined9565d4ad-86e3-4111-9138-67208a2dfe23/index.html</link>
+            <guid isPermaLink="false">9565d4ad-86e3-4111-9138-67208a2dfe23</guid>
+            <pubDate>Wed, 10 Feb 2016 01:22:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
